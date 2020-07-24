@@ -1,3 +1,7 @@
+# Author :-  Deepaanshu Narang.
+# Task :- A Simple Tool For Log Processing.
+# Date :- July/24/2020.
+
 import re
 
 import numpy as np
